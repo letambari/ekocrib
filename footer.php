@@ -1,81 +1,92 @@
-<footer class="pt-8 pb-6 footer text-gray-light">
+<footer class="bg-dark pt-8 pb-6 footer text-muted">
 <div class="container">
 <div class="row">
 <div class="col-md-6 col-lg-4 mb-6 mb-md-0">
 <a class="d-block mb-2" href="#">
-<img src="images/a.png" alt="HomeID" height="200px" width="200px">
+<img src="images/logo-white-primary.png" alt="HomeID">
 </a>
 <div class="lh-26 font-weight-500">
-<p class="mb-0">We Provide comprehensive professional services in landed property valuation, Real Estate Consultancy to clients in both private and public sectors</p>
-<a class="d-block text-gray-light hover-primary" href="mailto:contact@homeid.com">aninwezi@yahoo.com</a>
-<a class="d-block text-gray-light font-weight-bold hover-primary fs-15" href="tel:(+68)122109876">08033166446</a>
+<p class="mb-0">58 Howard Street #2 San Francisco</p>
+<a class="d-block text-muted hover-white" href="mailto:contact@homeid.com">contact@homeid.com</a>
+<a class="d-block text-lighter font-weight-bold fs-15 hover-white" href="tel:(+68)122109876">(+68)1221
+09876</a>
+<a class="d-block text-muted hover-white" href=".html">www.homeid.com</a>
 </div>
 </div>
 <div class="col-md-6 col-lg-2 mb-6 mb-md-0">
- <h4 class="text-heading fs-16 my-4 font-weight-500">Popular Searches</h4>
+<h4 class="text-white fs-16 my-4 font-weight-500">Popular Searches</h4>
 <ul class="list-group list-group-flush list-group-no-border">
 <li class="list-group-item bg-transparent p-0">
-<a href="https://www.shop.aninweziandco.com/" class="text-gray-light hover-primary lh-26 font-weight-500">Apartment for
-Rent</a>
+<a href="#" class="text-muted lh-26 font-weight-500 hover-white">Apartment for Rent</a>
 </li>
 <li class="list-group-item bg-transparent p-0">
-<a href="https://www.shop.aninweziandco.com/flash-deals" class="text-gray-light hover-primary lh-26 font-weight-500">Flash Deals</a>
+<a href="#" class="text-muted lh-26 font-weight-500 hover-white">Apartment Low to
+hide</a>
 </li>
 <li class="list-group-item bg-transparent p-0">
-<a href="https://www.shop.aninweziandco.com/categories" class="text-gray-light hover-primary lh-26 font-weight-500">Categories</a>
+<a href="#" class="text-muted lh-26 font-weight-500 hover-white">Offices for Buy</a>
 </li>
 <li class="list-group-item bg-transparent p-0">
-<a href="https://www.shop.aninweziandco.com/" class="text-gray-light hover-primary lh-26 font-weight-500">All Properties</a>
+<a href="#" class="text-muted lh-26 font-weight-500 hover-white">Offices for Rent</a>
 </li>
 </ul>
 </div>
 <div class="col-md-6 col-lg-2 mb-6 mb-md-0">
-<h4 class="text-heading fs-16 my-4 font-weight-500">Quick links</h4>
+<h4 class="text-white fs-16 my-4 font-weight-500">Quick links</h4>
 <ul class="list-group list-group-flush list-group-no-border">
-    <li class="list-group-item bg-transparent p-0">
-        <a href="#" class="text-gray-light hover-primary lh-26 font-weight-500">About</a>
-        </li>
 <li class="list-group-item bg-transparent p-0">
-<a href="#" class="text-gray-light hover-primary lh-26 font-weight-500">Terms of Use</a>
+<a href="#" class="text-muted lh-26 font-weight-500 hover-white">Terms of Use</a>
 </li>
 <li class="list-group-item bg-transparent p-0">
-<a href="#" class="text-gray-light hover-primary lh-26 font-weight-500">Privacy
-Policy</a>
+<a href="#" class="text-muted lh-26 font-weight-500 hover-white">Privacy Policy</a>
 </li>
 <li class="list-group-item bg-transparent p-0">
-<a href="#" class="text-gray-light hover-primary lh-26 font-weight-500">Contact
-Support</a>
+<a href="#" class="text-muted lh-26 font-weight-500 hover-white">Contact Support</a>
 </li>
 <li class="list-group-item bg-transparent p-0">
-<a href="#" class="text-gray-light hover-primary lh-26 font-weight-500">Careers</a>
+<a href="#" class="text-muted lh-26 hover-white font-weight-500">Careers</a>
 </li>
 </ul>
 </div>
 <div class="col-md-6 col-lg-4 mb-6 mb-md-0">
-<h4 class="text-heading fs-16 my-4 font-weight-500">Sign Up for Our Newsletter</h4>
-<!-- <p class="font-weight-500 text-muted lh-184">Lorem ipsum dolor sit amet, consecte tur cing elit.
-Suspe ndisse suscipit sagittis </p> -->
+<h4 class="text-white fs-16 my-4 font-weight-500">Sign Up for Our Newsletter</h4>
+<p class="font-weight-500 text-muted lh-184">Lorem ipsum dolor sit amet, consecte tur cing elit.
+Suspe ndisse suscipit sagittis </p>
 <form>
 <div class="input-group input-group-lg mb-6">
-<input type="email" required name="email" class="form-control shadow-none border-0 z-index-1" placeholder="Your email">
+<input type="text" name="email" required class="form-control bg-white shadow-none border-0 z-index-1" placeholder="Your email">
 <div class="input-group-append">
-<button class="btn btn-primary" type="button">Subscribe</button>
+<button class="btn btn-primary" type="submit">Subscribe</button>
 </div>
 </div>
 </form>
+<ul class="list-inline mb-0">
+<li class="list-inline-item mr-0">
+<a href="#" class="text-white opacity-3 fs-25 px-4 opacity-hover-10"><i class="fab fa-twitter"></i></a>
+</li>
+<li class="list-inline-item mr-0">
+<a href="#" class="text-white opacity-3 fs-25 px-4 opacity-hover-10"><i class="fab fa-facebook-f"></i></a>
+</li>
+<li class="list-inline-item mr-0">
+<a href="#" class="text-white opacity-3 fs-25 px-4 opacity-hover-10"><i class="fab fa-skype"></i></a>
+</li>
+<li class="list-inline-item mr-0">
+<a href="#" class="text-white opacity-3 fs-25 px-4 opacity-hover-10"><i class="fab fa-linkedin-in"></i></a>
+</li>
+</ul>
 </div>
 </div>
 <div class="mt-0 mt-md-10 row">
 <ul class="list-inline mb-0 col-md-6 mr-auto">
 <li class="list-inline-item mr-6">
-<a href="#" class="text-gray-light hover-primary lh-26 font-weight-500">Terms of Use</a>
+<a href="#" class="text-muted lh-26 font-weight-500 hover-white">Terms of Use</a>
 </li>
 <li class="list-inline-item">
-<a href="#" class="text-gray-light hover-primary lh-26 font-weight-500">Privacy Policy</a>
+<a href="#" class="text-muted lh-26 font-weight-500 hover-white">Privacy Policy</a>
 </li>
 </ul>
-<p class="col-md-auto mt-4 mt-md-0">
-© 2022 Aninwezi & Co. All Rights Reserved
+<p class="col-md-auto mb-0 text-muted">
+© 2020 homeID. All Rights Reserved
 </p>
 </div>
 </div>
@@ -146,7 +157,7 @@ Suspe ndisse suscipit sagittis </p> -->
 <div class="form-check">
 <input class="form-check-input" type="checkbox" value="" id="remember-me" name="remember-me">
 <label class="form-check-label" for="remember-me">
- Remember me
+Remember me
 </label>
 </div>
 <a href="password-recovery.html" class="d-inline-block ml-auto text-orange fs-15">
@@ -161,7 +172,7 @@ I'm not a robot
 </label>
 </div>
 <a href="#" class="d-inline-block ml-auto">
-<img src="images/re-captcha.png" alt="Re-capcha">
+ <img src="images/re-captcha.png" alt="Re-capcha">
 </a>
 </div>
 <button type="submit" class="btn btn-primary btn-lg btn-block">Log in</button>
@@ -370,7 +381,7 @@ or continue with
 <path d="M19.12 24.569h-2.912c-0.308 0-0.557 0.249-0.557 0.557s0.249 0.557 0.557 0.557h2.912c0.308 0 0.557-0.249 0.557-0.557s-0.249-0.557-0.557-0.557z"></path>
 <path d="M23.622 24.569h-1.592c-0.308 0-0.557 0.249-0.557 0.557s0.249 0.557 0.557 0.557h1.592c0.308 0 0.557-0.249 0.557-0.557s-0.249-0.557-0.557-0.557z"></path>
 <path d="M20.967 14.093c0.308 0 0.557-0.249 0.557-0.557v-1.592c0-0.308-0.249-0.557-0.557-0.557s-0.557 0.249-0.557 0.557v1.592c0 0.308 0.249 0.557 0.557 0.557z"></path>
-<path d="M20.967 19.069c0.308 0 0.557-0.249 0.557-0.557v-2.488c0-0.308-0.249-0.557-0.557-0.557s-0.557 0.249-0.557 0.557v2.488c-0 0.308 0.249 0.557 0.557 0.558 0 0 0 0 0 0z"></path>
+ <path d="M20.967 19.069c0.308 0 0.557-0.249 0.557-0.557v-2.488c0-0.308-0.249-0.557-0.557-0.557s-0.557 0.249-0.557 0.557v2.488c-0 0.308 0.249 0.557 0.557 0.558 0 0 0 0 0 0z"></path>
 <path d="M20.967 24.045c0.308 0 0.557-0.249 0.557-0.557v-2.488c0-0.308-0.249-0.557-0.557-0.557s-0.557 0.249-0.557 0.557v2.488c-0 0.308 0.249 0.558 0.557 0.558 0 0 0 0 0.001 0z"></path>
 <path d="M20.967 25.418c-0.308 0-0.557 0.249-0.557 0.557v1.592c0 0.308 0.249 0.557 0.557 0.557s0.557-0.249 0.557-0.557v-1.592c0-0.308-0.249-0.557-0.557-0.557z"></path>
 </symbol>
@@ -407,7 +418,7 @@ or continue with
 <path d="M16.555 13.833c0-0.232-0.188-0.42-0.42-0.42s-0.42 0.188-0.42 0.42v6.683c0 0.232 0.188 0.42 0.42 0.42s0.42-0.188 0.42-0.42v-6.683z"></path>
 <path d="M16.135 21.626c-0.232 0-0.42 0.188-0.42 0.42v0.211c0 0.232 0.188 0.42 0.42 0.42s0.42-0.188 0.42-0.42v-0.211c0-0.232-0.188-0.42-0.42-0.42z"></path>
 <path d="M23.84 12.26c-0.232 0-0.42 0.188-0.42 0.42v2.348c0 0.232 0.188 0.42 0.42 0.42s0.42-0.188 0.42-0.42v-2.348c0-0.232-0.188-0.42-0.42-0.42z"></path>
-<path d="M24.26 11.213c0-0.232-0.188-0.42-0.42-0.42s-0.42 0.188-0.42 0.42v0.027c0 0.232 0.188 0.42 0.42 0.42s0.42-0.188 0.42-0.42v-0.027z"></path>
+ <path d="M24.26 11.213c0-0.232-0.188-0.42-0.42-0.42s-0.42 0.188-0.42 0.42v0.027c0 0.232 0.188 0.42 0.42 0.42s0.42-0.188 0.42-0.42v-0.027z"></path>
 <path d="M28.262 13.492c-0.232 0-0.42 0.188-0.42 0.42v0.337c0 0.232 0.188 0.42 0.42 0.42s0.42-0.188 0.42-0.42v-0.337c0-0.232-0.188-0.42-0.42-0.42z"></path>
 <path d="M25.63 12.437v1.868c0 0.232 0.188 0.42 0.42 0.42s0.42-0.188 0.42-0.42v-1.868c0-0.232-0.188-0.42-0.42-0.42s-0.42 0.188-0.42 0.42z"></path>
 <path d="M27.349 15.3c-3.933 0-7.12 3.188-7.121 7.12s3.188 7.12 7.121 7.12 7.12-3.188 7.12-7.12c-0.004-3.931-3.19-7.116-7.12-7.12zM27.349 28.7c-3.468 0-6.28-2.811-6.28-6.28s2.812-6.28 6.28-6.28 6.28 2.812 6.28 6.28c-0.004 3.467-2.813 6.276-6.28 6.28z"></path>
@@ -486,5 +497,5 @@ or continue with
 </div>
 </body>
 
-<!-- Mirrored from templates.g5plus.net/homeid/home-08.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 01 Aug 2022 01:41:45 GMT -->
+<!-- Mirrored from templates.g5plus.net/homeid/signup-and-login.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 01 Aug 2022 01:43:52 GMT -->
 </html>

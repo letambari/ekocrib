@@ -1,0 +1,9 @@
+
+RewriteEngine on  
+  
+RewriteRule ^register  register.php [NC,L]
+RewriteRule ^login  login.php [NC,L]
+RewriteRule ^dashboard  dashboard.php [NC,L]
+RewriteRule ^logout  logout.php [NC,L]
+RewriteRule ^my_properties  my_properties.php [NC,L]
+RewriteRule ^add_properties  add_properties.php [NC,L]
