@@ -1,0 +1,10 @@
+Array
+(
+    [Authorization] => Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJpbm5vY2VudGRlc3RpbnkyMjhAZ21haWwuY29tIiwiYXVkIjoiUmVudGVyIiwiaWF0IjoxNzAxMTM3OTA5LCJleHAiOjE3MDExNDE1MDksInVzZXJfaWQiOjExfQ.7TvB7o7z-2RjedQ53B9f1HD_r3skQXZv2cckk3xgZuo
+    [User-Agent] => PostmanRuntime/7.35.0
+    [Accept] => */*
+    [Postman-Token] => 3cd4c4e3-41fe-4357-90af-e79fa62bd0d4
+    [Host] => localhost
+    [Accept-Encoding] => gzip, deflate, br
+    [Connection] => keep-alive
+)
